@@ -7,4 +7,7 @@ This repo aims to get **practice** with committing changes, editing files, and a
 1. commit changes
 2. editing files
 3. adding files
-4. markdown familiarity 
+4. markdown familiarity
+
+## here is more text just so i can commit another change
+
